@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IspLspViolation", "IspLspViolation\IspLspViolation.csproj", "{D7E844BE-E408-4653-AE2D-8F27F18BC5A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E844BE-E408-4653-AE2D-8F27F18BC5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E844BE-E408-4653-AE2D-8F27F18BC5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E844BE-E408-4653-AE2D-8F27F18BC5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E844BE-E408-4653-AE2D-8F27F18BC5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FDC016B-80A6-42BF-A716-89AF7F486C1B}
+	EndGlobalSection
+EndGlobal
